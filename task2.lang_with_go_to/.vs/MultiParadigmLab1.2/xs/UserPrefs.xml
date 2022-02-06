@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BC2AF8E9-D397-41B2-9143-6818A6572342}|Default">
+  <MonoDevelop.Ide.ItemProperties.MultiParadigmLab1.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiParadigmLab1.2/Program.cs">
+    <Files>
+      <File FileName="MultiParadigmLab1.2/Program.cs" Line="257" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiParadigmLab1.2" expanded="True">
+            <Node name="MultiParadigmLab1.2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

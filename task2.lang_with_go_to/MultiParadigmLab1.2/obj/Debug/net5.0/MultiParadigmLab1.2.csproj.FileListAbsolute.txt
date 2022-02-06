@@ -1,0 +1,15 @@
+/Users/danylomoskaliuk/Projects/MultiParadigmLab1.2/MultiParadigmLab1.2/bin/Debug/net5.0/MultiParadigmLab1.2.deps.json
+/Users/danylomoskaliuk/Projects/MultiParadigmLab1.2/MultiParadigmLab1.2/bin/Debug/net5.0/MultiParadigmLab1.2.runtimeconfig.json
+/Users/danylomoskaliuk/Projects/MultiParadigmLab1.2/MultiParadigmLab1.2/bin/Debug/net5.0/MultiParadigmLab1.2.runtimeconfig.dev.json
+/Users/danylomoskaliuk/Projects/MultiParadigmLab1.2/MultiParadigmLab1.2/bin/Debug/net5.0/MultiParadigmLab1.2.dll
+/Users/danylomoskaliuk/Projects/MultiParadigmLab1.2/MultiParadigmLab1.2/bin/Debug/net5.0/ref/MultiParadigmLab1.2.dll
+/Users/danylomoskaliuk/Projects/MultiParadigmLab1.2/MultiParadigmLab1.2/bin/Debug/net5.0/MultiParadigmLab1.2.pdb
+/Users/danylomoskaliuk/Projects/MultiParadigmLab1.2/MultiParadigmLab1.2/obj/Debug/net5.0/MultiParadigmLab1.2.csproj.AssemblyReference.cache
+/Users/danylomoskaliuk/Projects/MultiParadigmLab1.2/MultiParadigmLab1.2/obj/Debug/net5.0/MultiParadigmLab1.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danylomoskaliuk/Projects/MultiParadigmLab1.2/MultiParadigmLab1.2/obj/Debug/net5.0/MultiParadigmLab1.2.AssemblyInfoInputs.cache
+/Users/danylomoskaliuk/Projects/MultiParadigmLab1.2/MultiParadigmLab1.2/obj/Debug/net5.0/MultiParadigmLab1.2.AssemblyInfo.cs
+/Users/danylomoskaliuk/Projects/MultiParadigmLab1.2/MultiParadigmLab1.2/obj/Debug/net5.0/MultiParadigmLab1.2.csproj.CoreCompileInputs.cache
+/Users/danylomoskaliuk/Projects/MultiParadigmLab1.2/MultiParadigmLab1.2/obj/Debug/net5.0/MultiParadigmLab1.2.dll
+/Users/danylomoskaliuk/Projects/MultiParadigmLab1.2/MultiParadigmLab1.2/obj/Debug/net5.0/ref/MultiParadigmLab1.2.dll
+/Users/danylomoskaliuk/Projects/MultiParadigmLab1.2/MultiParadigmLab1.2/obj/Debug/net5.0/MultiParadigmLab1.2.pdb
+/Users/danylomoskaliuk/Projects/MultiParadigmLab1.2/MultiParadigmLab1.2/obj/Debug/net5.0/MultiParadigmLab1.2.genruntimeconfig.cache
