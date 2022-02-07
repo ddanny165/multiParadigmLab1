@@ -12,7 +12,9 @@ namespace MultiParadigmLab1
             int numberOfStopWordsFound = 0;
 
             int numberOfWordsToEstimate = 18; // !!! must be less than or equal to the number of words in a text 
-            string inputText = "africa White 1, tigers, live for live the, mostly in India, - white, Wild! - lions live mostly in africa, Africa!";
+            // string inputText = "africa White 1, tigers, live for live the, mostly in India, - white, Wild! - lions live mostly in africa, Africa!";
+            string filepath = "lab1part1.txt";
+            string inputText = System.IO.File.ReadAllText(filepath);
 
             string[] words = new string[numberOfWordsToEstimate];
             int numOfWordsCounter = 0;

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/danylomoskaliuk/Projects/MultiParadigmLab1/MultiParadigmLab1/MultiParadigmLab1.csproj",
+      "projectUniqueName": "/Users/danylomoskaliuk/Desktop/github/multiParadigmLab1/task1.lang_with_go_to/MultiParadigmLab1/MultiParadigmLab1.csproj",
       "projectName": "MultiParadigmLab1",
-      "projectPath": "/Users/danylomoskaliuk/Projects/MultiParadigmLab1/MultiParadigmLab1/MultiParadigmLab1.csproj",
+      "projectPath": "/Users/danylomoskaliuk/Desktop/github/multiParadigmLab1/task1.lang_with_go_to/MultiParadigmLab1/MultiParadigmLab1.csproj",
       "packagesPath": "/Users/danylomoskaliuk/.nuget/packages/",
-      "outputPath": "/Users/danylomoskaliuk/Projects/MultiParadigmLab1/MultiParadigmLab1/obj/",
+      "outputPath": "/Users/danylomoskaliuk/Desktop/github/multiParadigmLab1/task1.lang_with_go_to/MultiParadigmLab1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/danylomoskaliuk/.config/NuGet/NuGet.Config"
