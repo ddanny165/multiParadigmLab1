@@ -6,7 +6,6 @@ namespace MultiParadigmLab1
     {
         static void Main(string[] args)
         {
-            // FIRST TASK
             string[] stopWords = { "for", "the", "in", "is", "a", "from" };
             int stopWordsCount = 6;
             int numberOfStopWordsFound = 0;
